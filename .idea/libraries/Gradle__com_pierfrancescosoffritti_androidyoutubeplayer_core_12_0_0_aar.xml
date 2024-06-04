@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pierfrancescosoffritti.androidyoutubeplayer:core:12.0.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/13d7ae7f7c2ae7feb50790db5e12e36f/transformed/jetified-core-12.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/13d7ae7f7c2ae7feb50790db5e12e36f/transformed/jetified-core-12.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/13d7ae7f7c2ae7feb50790db5e12e36f/transformed/jetified-core-12.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pierfrancescosoffritti.androidyoutubeplayer/core/12.0.0/8609200bae43e531d838f1135e855aca642a0f58/core-12.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pierfrancescosoffritti.androidyoutubeplayer/core/12.0.0/bb1615c8151102b789785ea29e3221ede2c3160c/core-12.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

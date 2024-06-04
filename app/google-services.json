@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "393719835330",
+    "project_id": "app-marketing-e876d",
+    "storage_bucket": "app-marketing-e876d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393719835330:android:41e6d226ea87b29755a95b",
+        "android_client_info": {
+          "package_name": "com.millenium.marketing2021"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPSTlfLB-DsaUPrbIE4vVluTcjx-52CTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-9311012556587578~5815144288"
+    }
+  ],
+  "configuration_version": "1"
+}

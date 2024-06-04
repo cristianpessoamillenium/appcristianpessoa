@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.onesignal:location:5.1.13@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/39ca16f9a15214a2a7dcfdd50505a08b/transformed/jetified-location-5.1.13/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/39ca16f9a15214a2a7dcfdd50505a08b/transformed/jetified-location-5.1.13/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/39ca16f9a15214a2a7dcfdd50505a08b/transformed/jetified-location-5.1.13/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

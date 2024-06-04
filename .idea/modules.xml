@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/App_Editsndo.iml" filepath="$PROJECT_DIR$/.idea/modules/App_Editsndo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/App_Editsndo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/App_Editsndo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/App_Editsndo.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/App_Editsndo.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/App_Editsndo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/App_Editsndo.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/App_Editsndo.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/App_Editsndo.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/App_Editsndo.nativetemplates.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/App_Editsndo.nativetemplates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/App_Editsndo.nativetemplates.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/App_Editsndo.nativetemplates.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/App_Editsndo.nativetemplates.main.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/App_Editsndo.nativetemplates.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nativetemplates/App_Editsndo.nativetemplates.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/nativetemplates/App_Editsndo.nativetemplates.unitTest.iml" />
+    </modules>
+  </component>
+</project>
